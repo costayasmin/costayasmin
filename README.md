@@ -17,10 +17,6 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 <div align="center">
 
@@ -31,7 +27,6 @@
 <img width=45 src="./assets/icons8-tiktok-verified-account.svg">
 </a>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 0.4em">
 <a href="https://www.instagram.com/ysaacosta/" target="_blank">
 <img width=45 src="./assets/icons8-instagram.svg">
 </a>
