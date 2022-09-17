@@ -31,7 +31,7 @@
 <img width=45 src="./assets/icons8-linkedin.svg">
 </a>
 
-<a href="yasmincosta.design@gmail.com" target="_blank">
+<a href="mailto:yasmincosta.design@gmail.com" target="_blank">
 <img width=45 height=45 src="./assets/icons8-google-plus-quadrado-100.png">
 </a>
 
