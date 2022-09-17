@@ -4,9 +4,6 @@
 <!-- <img align='right' width=200 src="assets/gummy-programming.svg"> -->
 
 ## **Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Yasmin Costa**
-<hr>
-
-<br>
 
 - 💻 I'm a UX/UI Designer
 - ⚛️ HTML | CSS | JavaScript
